@@ -1,0 +1,56 @@
+/* Blue Theme Styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.blue-header {
+  background-color: #FFFFFF;
+  color: #FFF;
+  text-align: center;
+  padding: 80px 0;
+}
+
+/* Example: Changing text color */
+.blue-header .header-content h1 {
+  font-size: 36px;
+  margin: 0;
+  background-image: url(https://www.mymodernhome.com/media/images/My_Modern_Home_Plan.2e16d0ba.fill-1920x1080.format-webp_vkCLFun.webp);
+  background-size: cover;
+  background-position: center;
+  padding: 90px 100px 90px 100px;
+  color: #FFFFFF; /* Set the text color using a hexadecimal value */
+}
+
+.blue-header .header-content h2 {
+  font-size: 36px;
+  margin: 0;
+  background-image: url(https://images.wallpaperscraft.com/image/single/design_villa_interior_design_90520_1920x1080.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 90px 100px 90px 100px;
+  color: #FFFFFF; /* Set the text color using a hexadecimal value */
+}
+
+.blue-header .header-content h3 {
+  font-size: 36px;
+  margin: 0;
+  background-image: url(https://wallpaperaccess.com/full/2594925.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 90px 100px 90px 100px;
+  color: #D48F38; /* Set the text color using a hexadecimal value */
+}
+
+.blue-header .header-content h4 {
+  font-size: 36px;
+  margin: 0;
+  background-image: url(https://d1lss44hh2trtw.cloudfront.net/assets/article/2023/03/14/openai-chatgpt_feature.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 90px 100px 90px 100px;
+  color: #CB14CE; /* Set the text color using a hexadecimal value */
+}
+
+/* Other blue theme styles go here */
